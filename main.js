@@ -1,1 +1,3 @@
-var fullName = "Kenny";
+var a = 6;
+a++;
+console.log(a);
